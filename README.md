@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Update
+# slowzone-bookstore-2022
 
 HTML & CSS gos so much fun!
