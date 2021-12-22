@@ -18,7 +18,7 @@ a:link {
 
 .hero {
   width: 100%;
-  height: 550px;
+  height: 600px;
   overflow: hidden;
 }
 
@@ -113,10 +113,10 @@ hgroup h3 {
 }
 
 .story_box img {
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 300px;
   position: absolute;
-  top: -160px;
+  top: 0px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -148,7 +148,7 @@ hgroup h3 {
   width: 780px;
   height: 400px;
   position: absolute;
-  left: 70%;
+  left: 50%;
   transform: translateX(-70%);
   top: 200px;
   background: #e6e5e0;
@@ -323,6 +323,8 @@ hgroup h3 {
 }
 
 .gallery img {
+  width: 100%;
+  height: 100%;
   transition: all 0.4s;
 }
 
@@ -409,6 +411,11 @@ hgroup h3 {
 .info {
   width: 30%;
   font-size: 0.813rem;
+}
+
+.info img {
+  width: 100px;
+  height: 50px;
 }
 
 .info_wrap {
